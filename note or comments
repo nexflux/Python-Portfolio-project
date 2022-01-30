@@ -1,0 +1,19 @@
+Observations:
+Age is distributed quite uniformly between 18 and 64 years.
+There is significant peak of young people below or around 20 years old.
+There is no gender bias based on the M/F distribution in the sample.
+BMI is normally distributed.
+43.9% of the insured doesn't have any children. Most frequently they have one or two children (42.1%).
+20.5% of the insured are smokers.
+There is nearly equal distribution of insured by region. No geographical bias expected.
+Most of the charges are no more of 20 000 U.S. $.
+Pie chart shows that this these costs are for nearly 80% of the insured.
+As the insured age, the costs of insurance are increasing, from average 9087 $ for the youngest to 21063 \$ for the oldest.
+Average male pays 1 387.17$ more than average female (13956.75 for male vs 12569.58 for female).
+Only 16.9% of the insured has a healthy BMI.
+Shockingly, 52.7% of insured is obese.
+Obese people, who constiute majority of the insured pay 5126 $ than healthy people (10435 \$ vs 15561 $).
+Having 3 children is the most costly; having 5 is the least; but having no children can save on average from 365 to 2989 $.
+There is significant drop in insurance cost for people who have 5 kids, which breaks the correlation of "having more children increases insurance cost"(12366 $ for no kids vs 8786 \$ for 5 kids).
+Smoking is very expensive: 8434.27 $ for non-smokers vs 32050.23 $ for smokers.
+Western part pays less than eastern part (988.8 $ - 2388.47 \$).
